@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.11d8c4fe.css",
-    "main.js": "/static/js/main.393dab31.js",
-    "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
-    "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
-    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
-    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
-    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
-    "static/media/background.jpg": "/static/media/background.08a6f1e620d41316741b.jpg",
-    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
-    "index.html": "/index.html",
-    "main.11d8c4fe.css.map": "/static/css/main.11d8c4fe.css.map",
-    "main.393dab31.js.map": "/static/js/main.393dab31.js.map"
+    "main.css": "/Taswik/static/css/main.d9105a7b.css",
+    "main.js": "/Taswik/static/js/main.29d7fd55.js",
+    "static/media/InterVariable-Italic.woff2": "/Taswik/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/Taswik/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/Taswik/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/Taswik/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/Taswik/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/Taswik/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/background.jpg": "/Taswik/static/media/background.08a6f1e620d41316741b.jpg",
+    "static/media/primeicons.woff2": "/Taswik/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/Taswik/index.html",
+    "main.d9105a7b.css.map": "/Taswik/static/css/main.d9105a7b.css.map",
+    "main.29d7fd55.js.map": "/Taswik/static/js/main.29d7fd55.js.map"
   },
   "entrypoints": [
-    "static/css/main.11d8c4fe.css",
-    "static/js/main.393dab31.js"
+    "static/css/main.d9105a7b.css",
+    "static/js/main.29d7fd55.js"
   ]
 }
