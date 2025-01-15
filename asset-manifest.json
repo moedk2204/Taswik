@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f18ad6fa.css",
+    "main.css": "/static/css/main.d5a045bb.css",
     "main.js": "/static/js/main.d52c9ae0.js",
     "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
@@ -8,14 +8,14 @@
     "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/background.jpg": "/static/media/background.08a6f1e620d41316741b.jpg",
     "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
-    "static/media/backgrounddd.jpeg": "/static/media/backgrounddd.d64d199ac92a866ae069.jpeg",
     "index.html": "/index.html",
-    "main.f18ad6fa.css.map": "/static/css/main.f18ad6fa.css.map",
+    "main.d5a045bb.css.map": "/static/css/main.d5a045bb.css.map",
     "main.d52c9ae0.js.map": "/static/js/main.d52c9ae0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f18ad6fa.css",
+    "static/css/main.d5a045bb.css",
     "static/js/main.d52c9ae0.js"
   ]
 }
